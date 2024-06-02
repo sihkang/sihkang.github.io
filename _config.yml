@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "eunjikonyang2"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "sihkang"
+description              : "for my technical knowledges."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -112,11 +112,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "sihkang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Seoul"
+  email            : sihkang@42seoul.student.co.kr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -132,10 +132,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/nawhis"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://instagram.com/nawhis2"
 
 # Site Footer
 footer:
