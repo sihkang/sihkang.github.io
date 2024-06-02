@@ -23,7 +23,7 @@ name                     : "sihkang"
 description              : "for my technical knowledges. 그리고 한글테스트"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "sihkang/sihkang.github.io"
+repository               : sihkang/sihkang.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #"/assets/images/yadon.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "sihkang"
-  avatar           : "/assets/images/yadon.png"
+  avatar           : #"/assets/images/yadon.png"
   bio              : "**시캉**의 기술 블로그입니다."
   location         : "Seoul"
   email            : "sihkang@42seoul.student.co.kr"
