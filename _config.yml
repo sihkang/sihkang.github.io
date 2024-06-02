@@ -114,9 +114,9 @@ analytics:
 author:
   name             : "sihkang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "**시캉**의 기술 블로그입니다."
   location         : "Seoul"
-  email            : sihkang@42seoul.student.co.kr
+  email            : "sihkang@42seoul.student.co.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
