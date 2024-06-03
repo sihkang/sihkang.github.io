@@ -12,6 +12,7 @@ toc_sticky: true
  
 date: 2024-06-03 00:00:00 +0900
 last_modified_at: 2024-06-03 00:00:00 +0900
+teaser: /assets/yadon.png
 ---
 # 안녕하세요!
 > 깃 블로그는 마크다운 형식으로 글이 작성됩니다!
