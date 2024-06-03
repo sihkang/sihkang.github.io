@@ -319,7 +319,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      date: true
       comments: # true
       share: true
       related: true
