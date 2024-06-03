@@ -5,6 +5,16 @@
 <lastmod>2024-06-03T00:00:00+09:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/blog/posting-test/</loc>
+<lastmod>2024-06-03T11:30:01+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/Categories/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Tags/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 </urlset>

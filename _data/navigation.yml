@@ -1,12 +1,8 @@
 # main links
 main:
-  - title: "歲 月 不 待 人"
-    url: https://blog.naver.com/nawhis2
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Categories"
+    url: /Categories/
+  - title: "Tags"
+    url: /Tags/
+  # - title: "歲 月 不 待 人"
+  #   url: 

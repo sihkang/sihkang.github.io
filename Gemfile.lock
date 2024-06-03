@@ -90,6 +90,9 @@ GEM
       addressable (>= 2.3.5)
       faraday (>= 0.17.3, < 3)
     strscan (3.1.0)
+    thread_safe (0.3.6)
+    tzinfo (1.2.11)
+      thread_safe (~> 0.1)
 
 PLATFORMS
   arm64-darwin-23
@@ -99,6 +102,7 @@ DEPENDENCIES
   kramdown-parser-gfm
   minimal-mistakes-jekyll!
   rake (>= 12.3.3)
+  tzinfo (~> 1.2)
 
 BUNDLED WITH
    2.4.22
