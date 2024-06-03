@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "sihkang"
-  avatar           : #"/assets/images/yadon.png"
+  avatar           : "/assets/yadon.png"
   bio              : "**시캉**의 기술 블로그입니다."
   location         : "Seoul"
   email            : "sihkang@42seoul.student.co.kr"
@@ -132,10 +132,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/nawhis"
+      url: "https://github.com/nawhis"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/nawhis2"
+      url: "https://instagram.com/nawhis2"
 
 # Site Footer
 footer:
