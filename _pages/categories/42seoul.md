@@ -1,14 +1,9 @@
 ---
-layout: archive
-permalink: 42seoul
 title: "42seoul"
-
-author_profile: true
-sidebar:
-  nav: "docs"
+layout: archive
+permalink: /42seoul
 ---
 
-{% assign posts = site.categories.categories %}
-{% for post in posts %}
-  {% include custom-archive-single.html type=entries_layout %}
-{% endfor %}
+
+{% assign posts = site.categories.42seoul %}
+{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
