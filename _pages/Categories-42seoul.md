@@ -9,5 +9,3 @@ layout: archive
 
 {% assign posts = site.categories.42seoul %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
-
-카테고리 항목이다.

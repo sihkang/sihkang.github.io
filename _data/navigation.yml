@@ -1,4 +1,6 @@
 # main links
+
+
 # main:
 #   - title: "Categories"
 #     children:
@@ -10,6 +12,8 @@
 #         url: "/graphics"
 #       - title: "algorithm"
 #         url: "/algorithm"
+
+
 sidebar-category:
   - title: "나의 경험"
     children:
