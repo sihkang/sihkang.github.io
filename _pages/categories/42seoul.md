@@ -1,14 +1,14 @@
 ---
 layout: archive
 permalink: 42seoul
-title: "42 Seoul"
+title: "42seoul"
 
 author_profile: true
 sidebar:
   nav: "docs"
 ---
 
-{% assign posts = site.categories.42seoul %}
+{% assign posts = site.categories.categories %}
 {% for post in posts %}
   {% include custom-archive-single.html type=entries_layout %}
 {% endfor %}
