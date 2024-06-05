@@ -14,17 +14,17 @@
 #         url: "/algorithm"
 
 
-sidebar-category:
+docs:
   - title: "나의 경험"
     children:
       - title: "42seoul"
-        url: "/42seoul"
+        url: "/categories/42seoul"
       - title: "C_C++"
-        url: "/C_C++"
+        url: "/categories/C_C++"
       - title: "graphics"
-        url: "/graphics"
+        url: "/categories/graphics"
       - title: "algorithm"
-        url: "/algorithm"
+        url: "/categories/algorithm"
     
   # - title: "歲 月 不 待 人"
   #   url: 
