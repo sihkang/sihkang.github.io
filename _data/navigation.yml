@@ -1,14 +1,8 @@
 # main links
 main:
   - title: "Categories"
-    children:
-      - title: "42seoul"
-        url: "/42seoul"
-      - title: "c/c++"
-        url: "/c_c++"
-      - title: "graphics"
-        url: "/graphics"
-      - title: "algorithm"
-        url: "/algorithm"
+    url: /Categories/
+  - title: "Tags"
+    url: /Tags/
   # - title: "歲 月 不 待 人"
   #   url: 

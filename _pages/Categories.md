@@ -1,11 +1,11 @@
 ---
-title: "42seoul"
-layout: archive
-permalink: /42seoul
+permalink: /Categories/
+title: "Categories"
 toc: true
 toc_sticky: true
 toc_label: "Category"
 ---
 
-{% assign posts = site.categories.42seoul %}
-{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
+![icon](/assets/logo.ico/apple-icon-120x120.png)
+
+카테고리 항목이다.

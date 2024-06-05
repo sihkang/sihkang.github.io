@@ -3,7 +3,7 @@ title:  "[시작] Hello, World!"
 excerpt: "처음으로 Git blog 글을 작성해봅니다. 어리숙한 첫 발자국!"
 
 categories:
-  - 42seoul
+  - Blog
 tags:
   - [Blog, jekyll, Github, Git]
 
