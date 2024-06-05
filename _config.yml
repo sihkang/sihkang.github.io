@@ -323,4 +323,4 @@ defaults:
       sidebar:
         nav: "docs"
 sidebar:
-  navigation: true # 사이드바 내비게이션 활성화
+  nav: "docs" # 사이드바 내비게이션 활성화
