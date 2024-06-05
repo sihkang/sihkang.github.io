@@ -11,19 +11,15 @@ main:
     # - title: "algorithm"
     #   url: "/algorithm"
 
-
 docs:
-  - title: 42seoul
+  - title: Experience
     children:
       - title: "42seoul"
         url: /categories/42seoul
         category: "42seoul"
-      # - title: "C_C++"
-      #   url: "/categories/C_C++"
-      # - title: "graphics"
-      #   url: "/categories/graphics"
-      # - title: "algorithm"
-      #   url: "/categories/algorithm"
-    
-  # - title: "歲 月 不 待 人"
-  #   url: 
+      - title: "C_C++"
+        url: "/categories/C_C++"
+      - title: "graphics"
+        url: "/categories/graphics"
+      - title: "algorithm"
+        url: "/categories/algorithm"
