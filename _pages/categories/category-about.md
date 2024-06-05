@@ -1,12 +1,10 @@
 ---
 title: "ABOUT"
-layout: default
-permalink: categories/42seoul
+# layout: 
+permalink: categories/about
 author_profile: true
 sidebar:
   nav: "docs"
 # sidebar_main: true
 ---
-<!-- 
-{% assign posts = site.categories.42seoul %}
-{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %} -->
+# 안녕하세요 강시환입니다.
