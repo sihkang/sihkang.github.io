@@ -287,6 +287,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+42seoul_archive:
+  type: liquid
+  path: /42seoul/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:

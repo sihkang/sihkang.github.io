@@ -16,7 +16,7 @@ docs:
   - title: Experience
     children:
       - title: "42seoul"
-        url: /categories/42seoul
+        url: /42seoul
         category: "42seoul"
       # - title: "C_C++"
       #   url: "/categories/C_C++"
