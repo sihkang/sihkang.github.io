@@ -321,4 +321,4 @@ defaults:
       share: true
       related: true
       sidebar:
-        navigation: "docs"
+        nav: "docs"
