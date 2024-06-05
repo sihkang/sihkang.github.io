@@ -13,7 +13,7 @@ main:
 
 
 docs:
-  - title: Experience
+  - title: 42seoul
     children:
       - title: "42seoul"
         url: /categories/42seoul
