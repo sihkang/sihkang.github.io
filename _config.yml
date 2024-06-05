@@ -80,8 +80,6 @@ algolia:
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
-sidebar:
-  nav: "docs"
 
 # SEO Related
 google_site_verification :
@@ -324,3 +322,5 @@ defaults:
       related: true
       sidebar:
         nav: "docs"
+sidebar:
+  navigation: true # 사이드바 내비게이션 활성화
