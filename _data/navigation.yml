@@ -1,17 +1,15 @@
 # main links
 
 
-# main:
-#   - title: "Categories"
-#     children:
-#       - title: "42seoul"
-#         url: "/42seoul"
-#       - title: "C_C++"
-#         url: "/C_C++"
-#       - title: "graphics"
-#         url: "/graphics"
-#       - title: "algorithm"
-#         url: "/algorithm"
+main:
+    # - title: "42seoul"
+    #   url: "/42seoul"
+    # - title: "C_C++"
+    #   url: "/C_C++"
+    # - title: "graphics"
+    #   url: "/graphics"
+    # - title: "algorithm"
+    #   url: "/algorithm"
 
 
 docs:
