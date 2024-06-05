@@ -17,6 +17,7 @@ docs:
     children:
       - title: "42seoul"
         url: /categories/42seoul
+        category: "42seoul"
       # - title: "C_C++"
       #   url: "/categories/C_C++"
       # - title: "graphics"
