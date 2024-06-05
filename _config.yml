@@ -287,9 +287,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-42seoul_archive:
-  type: liquid
-  path: /42seoul/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
@@ -323,5 +320,4 @@ defaults:
       comments: # true
       share: true
       related: true
-      sidebar:
-        nav: "docs"
+      sidebar_main: true
