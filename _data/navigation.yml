@@ -14,12 +14,15 @@ main:
 docs:
   - title: Experience
     children:
-      - title: "42seoul"
+      - title: "42 Seoul"
         url: /categories/42seoul
         category: "42seoul"
-      - title: "C_C++"
+      - title: "C/C++"
         url: "/categories/C_C++"
-      - title: "graphics"
+        category: "C_C++"
+      - title: "Graphics"
         url: "/categories/graphics"
-      - title: "algorithm"
+        category: "graphics"
+      - title: "Algorithm"
         url: "/categories/algorithm"
+        category: "algorithm"

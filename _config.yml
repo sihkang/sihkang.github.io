@@ -130,7 +130,7 @@ author:
       url: "https://blog.naver.com/nawhis2"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/nawhis2"
+      # url: "https://instagram.com/nawhis2"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
