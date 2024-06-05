@@ -43,7 +43,10 @@ int socket(int domain, int type, int protocol);
 | PF_INET6  | IPv6 인터넷 프로토콜 체계         |
 | PF_LOCAL  | 로컬 통신을 위한 UNIX 프로토콜 체계   |
 | PF_PACKET | Low level 소켓을 위한 프로토콜 체계 |
-| PF_IPX    | IPX 노벨 프로토콜 체계           |
+| PF_IPX    | IPX 노벨 프로토콜 체계           |    
+    
+	    
+		
 
 어떤 통신 체계를 사용하는지에 대해서 소켓의 첫 번째 인자로 전달해준다.
 첫 번째 인자를 통해 정한 프로토콜 체계에서 세 번째 인자(프로토콜) 을 설정한다.
