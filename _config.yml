@@ -81,7 +81,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 sidebar:
-  navigation: true
+  nav: "docs"
 
 # SEO Related
 google_site_verification :
