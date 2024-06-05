@@ -1,9 +1,9 @@
 ---
 title: "42seoul"
 layout: archive
-permalink: /categories/42seoul
+permalink: categories/42seoul
 author_profile: true
-types: posts
+sidebar_main: true
 ---
 
 {% assign posts = site.categories.42seoul %}
