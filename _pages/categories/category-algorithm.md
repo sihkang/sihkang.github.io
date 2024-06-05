@@ -1,6 +1,6 @@
 ---
 title: "algorithm"
-layout: single
+layout: archive
 permalink: categories/algorithm
 author_profile: true
 sidebar:
