@@ -3,7 +3,7 @@ title: "42seoul"
 layout: archive
 permalink: categories/42seoul
 author_profile: true
-sidebar_main: true
+# sidebar_main: true
 ---
 
 {% assign posts = site.categories.42seoul %}
