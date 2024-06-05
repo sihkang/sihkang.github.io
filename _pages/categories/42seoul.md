@@ -1,7 +1,7 @@
 ---
 title: "42seoul"
 layout: archive
-permalink: categories/42seoul
+permalink: /42seoul
 author_profile: true
 types: posts
 ---
