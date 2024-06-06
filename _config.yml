@@ -117,7 +117,7 @@ author:
   avatar           : "/assets/profile.jpeg"
   bio              : "**시캉**의 기술 블로그입니다."
   location         : "Seoul"
-  email            : "sihkang@42seoul.student.co.kr"
+  email            : "sihkang@student.42seoul.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
